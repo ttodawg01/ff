@@ -1,0 +1,73 @@
+#twitterbutton{
+    border-radius: 20px;
+    width: 150px;
+    margin-left: 30px;
+}
+ul li {
+    list-style: none;
+    padding: 5px;
+}
+.leftside{
+   padding-left: 50px;
+}
+#twitterbird {
+    margin-left: 35px;
+}
+#coding-temple {
+    width: 40px;
+}
+.pushing-p{
+    color:gray;
+}
+.middle-content{
+    display: flex;
+}
+#image-icon{
+    color:rgb(29, 155, 240);
+}
+#gif-tag{
+    color:rgb(29, 155, 240);
+}
+#thirdtag{
+    color:rgb(29, 155, 240);
+}
+#happyfacetag{
+    color:rgb(29, 155, 240);
+}
+#calendertag {
+    color:rgb(29, 155, 240);
+}
+#pinpointtag {
+    color:rgb(29, 155, 240);
+}
+#secondtweetbutton {
+    border-radius: 20px;
+    margin-left: 300px;
+}
+.littletags{
+    display: flex;
+}
+#pushingpimage{
+    width: 50px;
+    height: auto;
+    border-radius: 200px;
+}
+small{
+    color: gray;
+}
+#scorpionimage{
+    padding: 30px;
+}
+.lowericons{
+    display: flex;
+    justify-content: space-around;
+}
+/* article{
+    border: style 1px lightgray;
+} */
+#hashtagthing{
+    color:rgb(29, 155, 240);
+}
+.darkbutton {
+
+}

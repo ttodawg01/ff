@@ -1,0 +1,38 @@
+img {
+    width: 100px;
+    height: auto;
+}
+button {
+    height: 20px;
+    width: 200px;
+}
+.new {
+    color: gray;
+}
+.continue{
+    background-color: rgb(255, 212, 132);
+    border: .5px solid ;
+    margin: 20px;
+    padding: 5px;
+    padding-bottom: 5px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid gray;
+    margin: 0px;
+}
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h2{
+    margin: 0;
+}
+.bottom2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

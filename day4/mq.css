@@ -1,0 +1,13 @@
+.container{
+    background-color: gray;
+    font-weight: bold;
+}
+#inner1{
+    background-color: tomato;
+}
+#inner2{
+    background-color: cornflowerblue;
+}
+#inner3{
+    background-color: plum;
+}

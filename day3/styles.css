@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgrey;
+    height: 100vh;
+}
+
+h2{
+    padding: 0px;
+    margin: 20px 0px 0px 0px;
+}
+.title_desc{
+    padding: 20px 0px;
+}
+article{
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 2em;
+}
+
+/* css for interesting list */
+#interestinglist{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+
+/* nav bar css */
+nav{
+    width: 100vw;
+    height: 50px;
+    background-color:black;  
+    margin-bottom: 20px;
+}
+
+nav ul{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+}
+
+nav li{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px 10px;
+    text-decoration: none;
+}
+
+nav li a{
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+nav li:hover {
+    background-color: #202020;
+
+}
+
+nav li a:visited, li a:active, li:visited{
+    color: white;
+}
+main{
+    display: flex;
+}

@@ -1,0 +1,35 @@
+#theatre {
+    height:600px;
+    width:1200px;
+}
+.chicago{
+    height: 300px;
+    width:300px;
+}
+.card1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#griot{
+    padding-right: 300px;
+}
+ul {
+    list-style: none;
+}
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.list1 {
+   margin: 30px;
+}
+#textcolor{
+    text-align:end
+    
+}

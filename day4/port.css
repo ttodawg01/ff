@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgrey;
+    height: 100vh;
+}
+
+h2{
+    padding: 0px;
+    margin: 20px 0px 0px 0px;
+}
+.title_desc{
+    padding: 20px 0px;
+}
+article{
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 2em;
+}
+
+/* css for interesting list */
+#interestinglist{
+    list-style-type: none;
+    padding-left: 0;
+}
